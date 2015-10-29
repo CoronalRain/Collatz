@@ -1,0 +1,2 @@
+# Collatz
+Collatz sequence toolkit
