@@ -12,7 +12,7 @@ Start by ensuring that all dependencies are installed. The Collatz Sequence Tool
 
 Next, clone this repository.
 
-    > git clone https://gitlab.com/RedShift/Collatz.git
+    > git clone https://gitlab.com/CoronalRain/Collatz.git
 
 Once the repo is successfully cloned, navigate to the Collatz directory and install the package.
 
